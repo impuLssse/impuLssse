@@ -3,7 +3,8 @@
 back-end разработчик на любительском уровне. Пробовал писать полноценный <b>API</b>. Могу писать на JS/TS. Умею работать с
 1) БД — MongoDB, MySQL, Firebase (В том числе Sequelize, TypeORM).
 2) Сервером — Express, Socket, Electron.
-3) Версиями — github, gitlab
-4) Ботами телеграмма — telegraf, node-telegram-node-api, grammy (Но все же пишу на telegraf (имба))
+3) Контролем авторизации — JWT, passport.
+4) Версиями — github, gitlab.
+5) Ботами телеграмма — telegraf, node-telegram-node-api, grammy (Но все же пишу на telegraf (имба))
 
 Знаком с HTML, CSS, React.js, Tailwind (Мало практического уровня).
