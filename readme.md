@@ -5,6 +5,7 @@ back-end разработчик на любительском уровне. Пр
 2) Сервером — Express, Socket, Electron.
 3) Контролем авторизации — JWT, passport.
 4) Версиями — github, gitlab.
-5) Ботами телеграмма — telegraf, node-telegram-node-api, grammy (Но все же пишу на telegraf (имба))
+5) API телеграмма — telegraf   // node-telegram-node-api, grammy
+6) Асинхронным программированием
 
 Знаком с HTML, CSS, React.js, Tailwind (Мало практического уровня).
