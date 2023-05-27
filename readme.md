@@ -8,7 +8,7 @@
 * API телеграмма — telegraf, grammy, ntba
 * Асинхронным и ОО программированием.
 * Typescript
-* Front-end: React, Vue, Astro, Tailwind, bootstrap, SCSS
+* Front-end: React, Vue, Astro, SCSS
 
 Сейчас осваиваю микросервисную архитектуру.
 
