@@ -3,7 +3,7 @@
 Занимаюсь беком. Могу писать полноценный <b>API</b>. Пробовал и умею работать с:
 * БД — MongoDB, MySQL, PostgreSQL. (SQL освоен).
 * ORM - Sequelize, Prisma, TypeORM
-* Сервером — NestJS (Освоен DI/Singleton - inversify, tsyringe, typedi), Express, Fastify.
+* Сервером — NestJS (Освоен DI/Singleton - inversify, tsyringe, typedi), Express
 * Контролем авторизации — JWT, passport.
 * API телеграмма — telegraf, grammy, ntba
 * Асинхронным и ОО программированием.
