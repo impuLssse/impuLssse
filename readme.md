@@ -2,6 +2,6 @@
 
 
 ![Codewars](https://www.codewars.com/users/impuLssse/badges/micro)
-https://github-readme-stats.vercel.app/api/top-langs/?username=impuLssse&theme=blue-green
+![Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=impuLssse&theme=blue-green)
 
 <h3>Связь со мной через телеграмм — <code>impuLssse666</code></h3>
